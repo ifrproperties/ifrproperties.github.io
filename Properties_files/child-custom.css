@@ -1,0 +1,72 @@
+/* Child Theme - Custom CSS File for Buyers to Modify */
+
+#mc4wp-checkbox{ display:none!important;}
+
+.footer-navigation {float: left; margin-bottom:20px;}
+.footer-navigation ul.menu {float: left;margin: 0;}
+.footer-navigation ul.menu li {display: inline;float: left;list-style: none outside none; margin-right:50px;}
+.footer-navigation ul.menu li a {font-weight: bold;}
+.footer-navigation ul li a:hover{ text-decoration:underline;}
+.footer-navigation ul.menu li ul.sub-menu {margin: 8px 0 0;}
+.footer-navigation ul.menu li ul.sub-menu li {clear: both;float: left; margin:0;}
+.footer-navigation ul.menu li ul.sub-menu li a {font-weight: normal;}
+.widget.widget_search{ background:#FFFFFF;}
+
+
+
+form.wpcf7-form section#contact-form input[type="text"]{ width:45%;}
+form.wpcf7-form section#contact-form input[type="email"]{ width:45%;}
+form.wpcf7-form section#contact-form textarea#comment{ width:65%;}
+
+
+#contactsubmit{ background:#3687bd!important;}
+
+#contactsubmit:hover, #contactsubmit:focus{ background:#00394d!important;}
+
+
+@media (max-width: 767px) {
+
+#tinyform {
+    border: none!important;
+    box-shadow: none!important;
+    padding: 0!important;
+    width: 100%!important;
+}
+
+.footer-navigation ul.menu li {
+    float: left;
+    margin-right: 0;
+    margin-top: 10px;
+    width: 100%;
+}
+
+}
+
+
+@media (max-width: 567px) {
+	
+form.wpcf7-form section#contact-form input[type="text"]{ width:70%!important;}
+form.wpcf7-form section#contact-form input[type="email"]{ width:70%!important;}
+form.wpcf7-form section#contact-form textarea#comment{ width:85%;}
+	
+}
+
+@media (max-width: 480px) {
+	
+form.wpcf7-form section#contact-form input[type="text"]{ width:96%!important;}
+form.wpcf7-form section#contact-form input[type="email"]{ width:96%!important;}
+form.wpcf7-form section#contact-form textarea#comment{ width:96%;}
+	
+}
+
+
+@media (max-width: 320px) {
+	
+form.wpcf7-form section#contact-form input[type="text"]{ width:94%!important;}
+form.wpcf7-form section#contact-form input[type="email"]{ width:94%!important;}
+form.wpcf7-form section#contact-form textarea#comment{ width:94%;}
+	
+}
+
+
+
