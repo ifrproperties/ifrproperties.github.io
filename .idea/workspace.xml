@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a6dbd83-9c70-4e7a-bb95-46eb75ed25e4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author/admin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author/admin/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author/admin/page/3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/login-or-register/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/we-buy-houses/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-admin/admin-ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-admin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-admin/load-scripts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-admin/load-styles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/mc4wp-premium/ajax-forms/assets/js/ajax-forms.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-leads-builder-any-crm/css/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-leads-builder-any-crm/css/frontendstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes-child/child-custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes-child/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/_responsive-utilities.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/custom-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/login-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/realhomes-admin-styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/rtl-custom-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css-old/rtl-main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/_responsive-utilities.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/custom-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/login-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/realhomes-admin-styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/rtl-custom-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/css/rtl-main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/default.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/default.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/font/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/font/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/font/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/font/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/font/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/admin-style-grey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/admin-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/colorpicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/accept-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/accept.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/admin-bg-grad-grey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/admin-bg-grad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/bg-save-bar-grey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/bg-save-bar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_hex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_hsb_b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_hsb_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_hsb_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_indic.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_rgb_b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_rgb_g.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_rgb_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_select.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/colorpicker_submit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/colorpicker/select.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/icon_option.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/icon_option_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/sample-layouts/sample-layout-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/sample-layouts/sample-layout-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/sample-layouts/sample-layout-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/images/wpspin_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/js/ajaxupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/js/colorpicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/admin/js/jquery.maskedinput-1.2.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/color.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/divider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/file.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/heading.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/image-select.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/jqueryui/jquery-ui-timepicker-addon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/jqueryui/jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/jqueryui/jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/jqueryui/jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/jqueryui/jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/oembed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/plupload-image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/range.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/select-advanced.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/select.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/select2/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/select2/select2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/select2/select2x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/select2/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/taxonomy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/css/wysiwyg.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/jqueryui/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/img/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/autosave.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/clone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/datetime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/file-advanced.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/file-input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/image-advanced.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/image-select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ar-DZ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-bs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-cy-GB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-en-AU.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-en-GB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-en-NZ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-fr-CA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-fr-CH.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-hy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-kk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-lb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-nl-BE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-nn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-rm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-sr-SR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-tj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-zh-HK.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/datepicker-i18n/jquery.ui.datepicker-zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/jquery-ui-timepicker-addon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/jqueryui/timepicker-i18n/jquery-ui-timepicker-zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/oembed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/plupload-image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/select-advanced.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/select2/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/taxonomy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/thickbox-image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/framework/meta-box/js/validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/arrow-left-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/arrow-right-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/background-outer-wrapper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/carousel-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/carousel-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/comment-detail-wrap-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/container-gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/dropdown-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/dropdown-interest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/dropdown-month.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/dropdown-year.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/feature-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/flex-arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/flex-arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-arrow-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-bath.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-bed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-building.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-building2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-disc-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-disc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-fax.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-garage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-hour-glass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-lense.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-listing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-mail2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-people.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-phone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-printer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-size.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-tick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-umbrella.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/icon-zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/apartment-building-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/apartment-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/condominium-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/office-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/shop-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/single-family-home-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/map/villa-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/paypal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/play-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/play-btn2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/prop-slider-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/prop-slider-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-comment-detail-wrap-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-feature-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-icon-arrow-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-icon-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-icon-disc-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-icon-tick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/rtl-widget-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/slider-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/slider-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/slider-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/slideshow-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/slideshow-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/sticky-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images-old/widget-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/arrow-left-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/arrow-left-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/arrow-right-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/background-outer-wrapper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/carousel-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/carousel-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/comment-detail-wrap-arrow-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/container-gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/dropdown-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/dropdown-interest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/dropdown-month.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/dropdown-year.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/feature-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/flex-arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/flex-arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-arrow-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-arrow-small-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-arrow-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-bath-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-bath.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-bed-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-bed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-building-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-building.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-building2-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-building2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-calculator-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-disc-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-disc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-fax-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-fax.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-garage-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-garage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-grid-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-hour-glass-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-hour-glass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-lense-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-lense.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-link-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-listing-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-listing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-location-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-mail-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-mail2-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-mail2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-mobile-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-people-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-people.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-phone-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-phone2-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-phone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-printer-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-printer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-setting-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-size-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-size.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-tick-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-tick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-umbrella-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-umbrella.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-zoom-old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/icon-zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/apartment-building-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/apartment-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/condominium-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/office-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/shop-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/single-family-home-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/map/villa-map-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/paypal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/play-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/play-btn2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/prop-slider-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/prop-slider-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-arrow-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-comment-detail-wrap-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-feature-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-icon-arrow-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-icon-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-icon-disc-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-icon-tick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/rtl-widget-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/slider-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/slider-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/slider-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/slideshow-nav-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/slideshow-nav-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/sticky-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/images/widget-list-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/elastislide/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/elastislide/jquery.elastislide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/flexslider/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/flexslider/images/bg_direction_nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/flexslider/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/jquery.isotope.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/jquery.jcarousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/jquery.selectbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/jquery.transit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/paypal-button.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_square/contentPattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/dark_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/default/sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/facebook/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_rounded/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_rounded/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_square/btnNext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_square/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/images/prettyPhoto/light_square/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/prettyphoto/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/swipebox/img/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/swipebox/img/icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/swipebox/img/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/swipebox/jquery.swipebox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/js/swipebox/swipebox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/paypal/cert/api_cert_chain.crt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/paypal/ipn_errors.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/realhomes/wpml-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2013/08/kitchen_wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/foreclosureCouple_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/houseOnMoney_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/houseUnderWater_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/ifr-headerlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/landlord_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/livingRoom_wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/neighborhood_wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/09/womanPromotion-_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/10/coupleBuying_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/10/dreamHouse_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/10/houseCurve_wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/10/houseForSale_wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/10/livingRoom_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1820.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1821.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1831.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1832.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1833.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1835.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1836.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1837.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1838.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1841.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1846.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1848.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1849.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1850.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1856.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1861.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1862.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1863.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/IMG_1870.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/11/broadwaySold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/12/sold_sign.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2014/12/vasbinder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/HouseWithTree_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/dollarHouse_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/dollarHouse_sm1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/dreamHome_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/houseRemodel_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/indianapolisMap_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/indianapolis_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/paintBrush_wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/passiveIncome_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/probatePlanning_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/rehabHouse_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/shortSale_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/01/turnkeySolution_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/02/ira_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/appraisal_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/closingSellerFinancing_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/downtownIndy_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/houseForRent_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/indplsRealEstate_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/indyWaterCanal_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/03/mortgage_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/04/cashInHand_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/04/foreclosure_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/04/forsaleRoof_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/04/howToSell_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/04/pastDue_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0195.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0197.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0199.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0202.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_02021.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0205.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0206.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0207.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0208.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0211.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0213.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0215.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0216.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_02161.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0230.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0231.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0232.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_02331.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0235.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0240.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0241.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0242.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0243.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0245.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0246.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0247.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0248.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0249.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0250.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0252.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0253.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0254.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0255.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0256.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0257.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0258.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0260.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0262.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0263.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0264.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0265.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0266.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0267.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0268.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0269.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/IMG_0270.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/ShenandoahCt.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/front.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/leaseOption_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/07/coupleBuying_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/07/foreclosure_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/07/titleDeed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/5447HedgerowBanner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0091.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0093.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0096.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0103.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0104.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0109.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0111.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0116.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0120.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0128.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0132.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0133.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0136.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0139.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0140.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0141.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0142.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0147.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0148.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0149.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0151.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/IMG_0152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/10/frontSold.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/2537banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0517.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0518.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0519.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0522.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0523.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0524.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0525.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0526.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0527.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0528.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0529.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0530.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0531.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0532.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0533.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0534.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0535.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0536.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0537.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0539.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0542.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0543.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0544.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0545.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0546.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0547.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/IMG_0548.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/11/routiersSold.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Brushwood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0699.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0701.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0702.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0703.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0704.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0707.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0708.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0709.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0710.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0711.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0712.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0713.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0714.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0715.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0716.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0717.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0718.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0719.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0721.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0725.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0726.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0727.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/IMG_0728.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-40-38-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-44-22-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-44-23-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-44-26-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-45-33-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-47-27-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-47-31-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-47-36-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-48-02-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-48-03-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-48-15-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-48-23-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-48-27-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-48-42-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-49-12-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-49-48-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-49-54-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-50-02-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-50-04-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-50-19-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-50-58-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-51-04-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-51-20-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-51-31-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-51-39-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-51-49-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-52-20-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-53-26-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-53-33-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-53-38-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-54-25-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-54-30-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-54-42-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-55-22-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-55-33-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-55-40-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-55-58-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-56-43-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-56-46-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-57-01-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-57-04-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-58-20-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-58-27-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Feb-19-4-58-37-PM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-45-13-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-45-40-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-45-56-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-47-09-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-47-21-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-49-09-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-49-28-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-49-43-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-50-03-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-50-13-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-50-18-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-50-31-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-50-40-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-51-12-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-51-20-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-51-36-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-51-46-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-51-57-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-52-11-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-52-19-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-52-33-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-52-59-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-10-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-18-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-21-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-43-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-47-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-51-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-53-59-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-54-07-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-54-16-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-54-24-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-54-41-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-54-45-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-54-57-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-55-04-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-55-23-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-55-34-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-55-54-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-56-00-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-56-11-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-56-26-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-56-29-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-56-39-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-56-55-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/03/Photo-Mar-12-9-57-03-AM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/06/PasadenaFront.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/06/VermilianFront.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/comment-reply.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/autocomplete.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/datepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/menu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/position.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/widget.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/wp-a11y.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/wp-embed.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-json/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/category/probate/index.html" afterPath="$PROJECT_DIR$/category/probate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ifrproperties" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://ifrproperties.com/wp-content/uploads</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>images</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/category/probate/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="25" />
+    <option name="width" value="1363" />
+    <option name="height" value="845" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ifrproperties" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ifrproperties" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/styles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6dbd83-9c70-4e7a-bb95-46eb75ed25e4" name="Default" comment="" />
+      <created>1482024473892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482024473892</updated>
+      <workItem from="1482024475085" duration="1960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1960000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="25" width="1363" height="845" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-json/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5416">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-or-register/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/probate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="405" column="48" lean-forward="false" selection-start-line="405" selection-start-column="42" selection-end-line="405" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015/01/buy-hold-cashflow-greenfield/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
