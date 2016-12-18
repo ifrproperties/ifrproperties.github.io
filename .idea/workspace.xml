@@ -5,213 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fce74e8-a8ab-4ffd-9371-1fad60b09f90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/PasadenaFront.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/autocomplete.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/child-custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/forms-api.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/gtm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery-migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.flexslider-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.form.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.isotope.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.jcarousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.swipebox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.transit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/menu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/position.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_files/wp-embed.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/form-themes.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/frontendstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/swipebox.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Wholesale_files/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home_files/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home_files/forms-api.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/Brushwood.jpg" afterPath="$PROJECT_DIR$/images/Brushwood.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/PasadenaFront.jpg" afterPath="$PROJECT_DIR$/images/PasadenaFront.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/VermilianFront.jpg" afterPath="$PROJECT_DIR$/images/VermilianFront.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/analytics.js" afterPath="$PROJECT_DIR$/js/analytics.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/autocomplete.min.js" afterPath="$PROJECT_DIR$/js/autocomplete.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/bootstrap.css" afterPath="$PROJECT_DIR$/Home_files/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/child-custom.css" afterPath="$PROJECT_DIR$/js/child-custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/common.js" afterPath="$PROJECT_DIR$/js/common.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/core.min.js" afterPath="$PROJECT_DIR$/js/core.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/css" afterPath="$PROJECT_DIR$/Home_files/css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/css(1)" afterPath="$PROJECT_DIR$/Home_files/css(1)" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/custom-responsive.css" afterPath="$PROJECT_DIR$/Home_files/custom-responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/custom.css" afterPath="$PROJECT_DIR$/Home_files/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/datepicker.css" afterPath="$PROJECT_DIR$/Home_files/datepicker.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/datepicker.min.js" afterPath="$PROJECT_DIR$/js/datepicker.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/flexslider.css" afterPath="$PROJECT_DIR$/css/flexslider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/font-awesome.min.css" afterPath="$PROJECT_DIR$/Home_files/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/form-themes.min.css" afterPath="$PROJECT_DIR$/Home_files/form-themes.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/frontendstyles.css" afterPath="$PROJECT_DIR$/Home_files/frontendstyles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/gtm.js" afterPath="$PROJECT_DIR$/js/gtm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/gtm4wp-form-move-tracker.js" afterPath="$PROJECT_DIR$/js/gtm4wp-form-move-tracker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/ifr-headerlogo.png" afterPath="$PROJECT_DIR$/images/ifr-headerlogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/js/jquery-migrate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.elastislide.js" afterPath="$PROJECT_DIR$/js/jquery.elastislide.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.form.js" afterPath="$PROJECT_DIR$/js/jquery.form.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.form.min.js" afterPath="$PROJECT_DIR$/js/jquery.form.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.jcarousel.min.js" afterPath="$PROJECT_DIR$/js/jquery.jcarousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/js/jquery.selectbox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.swipebox.min.js" afterPath="$PROJECT_DIR$/js/jquery.swipebox.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.transit.min.js" afterPath="$PROJECT_DIR$/js/jquery.transit.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/jquery.validate.min.js" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/js" afterPath="$PROJECT_DIR$/js/page.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/menu.min.js" afterPath="$PROJECT_DIR$/js/menu.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/position.min.js" afterPath="$PROJECT_DIR$/js/position.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/prettyPhoto.css" afterPath="$PROJECT_DIR$/Home_files/prettyPhoto.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/responsive.css" afterPath="$PROJECT_DIR$/Home_files/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/stats.js" afterPath="$PROJECT_DIR$/js/stats.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/style.css" afterPath="$PROJECT_DIR$/Home_files/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/styles.css" afterPath="$PROJECT_DIR$/Home_files/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/swipebox.css" afterPath="$PROJECT_DIR$/Home_files/swipebox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/util.js" afterPath="$PROJECT_DIR$/js/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/widget.min.js" afterPath="$PROJECT_DIR$/js/widget.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/wp-a11y.min.js" afterPath="$PROJECT_DIR$/js/wp-a11y.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Wholesale_files/wp-embed.min.js" afterPath="$PROJECT_DIR$/js/wp-embed.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/Home.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/HouseWithTree_sm.jpg" afterPath="$PROJECT_DIR$/Home_files/HouseWithTree_sm.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/PasadenaFront.jpg" afterPath="$PROJECT_DIR$/images/PasadenaFront.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/Home_files/ajax-forms.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/autocomplete.min.js" afterPath="$PROJECT_DIR$/js/autocomplete.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/child-custom.css" afterPath="$PROJECT_DIR$/js/child-custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/comment-reply.min.js" afterPath="$PROJECT_DIR$/Home_files/comment-reply.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/common.js" afterPath="$PROJECT_DIR$/Home_files/common.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/css(1)" afterPath="$PROJECT_DIR$/css/custom1.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/custom-responsive.css" afterPath="$PROJECT_DIR$/css/custom-responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/datepicker.css" afterPath="$PROJECT_DIR$/css/datepicker.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/flexslider.css" afterPath="$PROJECT_DIR$/Home_files/flexslider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/form-themes.min.css" afterPath="$PROJECT_DIR$/css/form-themes.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/frontendstyles.css" afterPath="$PROJECT_DIR$/css/frontendstyles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/gtm.js" afterPath="$PROJECT_DIR$/js/gtm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/js/jquery-migrate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.form.js" afterPath="$PROJECT_DIR$/js/jquery.form.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.form.min.js" afterPath="$PROJECT_DIR$/js/jquery.form.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.jcarousel.min.js" afterPath="$PROJECT_DIR$/js/jquery.jcarousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/Home_files/jquery.prettyPhoto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/Home_files/jquery.selectbox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.swipebox.min.js" afterPath="$PROJECT_DIR$/js/jquery.swipebox.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.transit.min.js" afterPath="$PROJECT_DIR$/js/jquery.transit.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/jquery.validate.min.js" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/js" afterPath="$PROJECT_DIR$/js/page.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/main.css" afterPath="$PROJECT_DIR$/Home_files/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/menu.min.js" afterPath="$PROJECT_DIR$/js/menu.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/position.min.js" afterPath="$PROJECT_DIR$/js/position.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/prettyPhoto.css" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/swipebox.css" afterPath="$PROJECT_DIR$/css/swipebox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/util.js" afterPath="$PROJECT_DIR$/Home_files/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/widget.min.js" afterPath="$PROJECT_DIR$/js/widget.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_files/wp-embed.min.js" afterPath="$PROJECT_DIR$/js/wp-embed.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse.html" afterPath="$PROJECT_DIR$/BuyaHouse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/ajax-forms.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/analytics.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/common.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/flexslider.css" afterPath="$PROJECT_DIR$/BuyaHouse_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/forms-api.min.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/forms-api.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/jquery.prettyPhoto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/jquery.selectbox.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/main.css" afterPath="$PROJECT_DIR$/BuyaHouse_files/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyaHouse_files/util.js" afterPath="$PROJECT_DIR$/BuyaHouse_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.html" afterPath="$PROJECT_DIR$/Contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/Contact_files/ajax-forms.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/analytics.js" afterPath="$PROJECT_DIR$/Contact_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/common.js" afterPath="$PROJECT_DIR$/Contact_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/flexslider.css" afterPath="$PROJECT_DIR$/Contact_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/forms-api.min.js" afterPath="$PROJECT_DIR$/Contact_files/forms-api.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/Contact_files/jquery.prettyPhoto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/Contact_files/jquery.selectbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/main.css" afterPath="$PROJECT_DIR$/Contact_files/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact_files/util.js" afterPath="$PROJECT_DIR$/Contact_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs.html" afterPath="$PROJECT_DIR$/FAQs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/FAQs_files/ajax-forms.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/analytics.js" afterPath="$PROJECT_DIR$/FAQs_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/common.js" afterPath="$PROJECT_DIR$/FAQs_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/flexslider.css" afterPath="$PROJECT_DIR$/FAQs_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/forms-api.min.js" afterPath="$PROJECT_DIR$/FAQs_files/forms-api.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/FAQs_files/jquery.prettyPhoto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/FAQs_files/jquery.selectbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/main.css" afterPath="$PROJECT_DIR$/FAQs_files/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FAQs_files/util.js" afterPath="$PROJECT_DIR$/FAQs_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties.html" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/ajax-forms.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/analytics.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/common.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/flexslider.css" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/forms-api.min.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/forms-api.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/jquery.prettyPhoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home.html" afterPath="$PROJECT_DIR$/Home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/Home_files/jquery.selectbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home_files/main.css" afterPath="$PROJECT_DIR$/Home_files/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home_files/util.js" afterPath="$PROJECT_DIR$/Home_files/util.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/jquery.selectbox.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/main.css" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/util.js" afterPath="$PROJECT_DIR$/IndianapolisResourceForWholesaleProperties_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors.html" afterPath="$PROJECT_DIR$/Investors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/Investors_files/ajax-forms.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/analytics.js" afterPath="$PROJECT_DIR$/Investors_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/common.js" afterPath="$PROJECT_DIR$/Investors_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/flexslider.css" afterPath="$PROJECT_DIR$/Investors_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/forms-api.min.js" afterPath="$PROJECT_DIR$/Investors_files/forms-api.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/Investors_files/jquery.prettyPhoto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/Investors_files/jquery.selectbox.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Investors_files/util.js" afterPath="$PROJECT_DIR$/Investors_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties.html" afterPath="$PROJECT_DIR$/Properties.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties_files/analytics.js" afterPath="$PROJECT_DIR$/Properties_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties_files/common.js" afterPath="$PROJECT_DIR$/Properties_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties_files/flexslider.css" afterPath="$PROJECT_DIR$/Properties_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/Properties_files/jquery.prettyPhoto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/Properties_files/jquery.selectbox.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties_files/util.js" afterPath="$PROJECT_DIR$/Properties_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses.html" afterPath="$PROJECT_DIR$/WeBuyHouses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/ajax-forms.min.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/ajax-forms.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/analytics.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/analytics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/common.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/flexslider.css" afterPath="$PROJECT_DIR$/WeBuyHouses_files/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/forms-api.min.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/forms-api.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/jquery.prettyPhoto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/jquery.selectbox.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/jquery.selectbox.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeBuyHouses_files/util.js" afterPath="$PROJECT_DIR$/WeBuyHouses_files/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wholesale.html" afterPath="$PROJECT_DIR$/Wholesale.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home_files/analytics.js" afterPath="$PROJECT_DIR$/home_files/analytics.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.selectbox.js" afterPath="$PROJECT_DIR$/js/jquery.selectbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/util.js" afterPath="$PROJECT_DIR$/js/util.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -233,12 +49,27 @@
   <component name="FileEditorManager">
     <leaf />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>wpadminbar</find>
       <find>ifr</find>
       <find>css</find>
+      <find>Login</find>
+      <find>search3</find>
+      <find>style.css</find>
+      <find>Home_files</find>
+      <find>http://ifrproperties.com</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Layout_files</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -257,6 +88,10 @@
         <option value="$PROJECT_DIR$/Properties.html" />
         <option value="$PROJECT_DIR$/Wholesale.html" />
         <option value="$PROJECT_DIR$/WeBuyHouses.html" />
+        <option value="$PROJECT_DIR$/Home.html" />
+        <option value="$PROJECT_DIR$/Layout_files/main.css" />
+        <option value="$PROJECT_DIR$/Layout_files/layout.css" />
+        <option value="$PROJECT_DIR$/Layout.html" />
       </list>
     </option>
   </component>
@@ -300,6 +135,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ifrproperties" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ifrproperties" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Layout_files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -311,8 +160,12 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/css" />
@@ -382,12 +235,12 @@
       <workItem from="1482030808126" duration="337000" />
       <workItem from="1482031176901" duration="1197000" />
       <workItem from="1482088067048" duration="8000" />
-      <workItem from="1482096420737" duration="2019000" />
+      <workItem from="1482096420737" duration="7107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5796000" />
+    <option name="totallyTimeSpent" value="10884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="25" width="1363" height="845" extended-state="0" />
@@ -420,7 +273,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -560,10 +415,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1380">
-          <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding>
-            <marker date="1482098544000" expanded="true" signature="60320:60457" ph="..." />
+            <element signature="e#21273#21279#0" expanded="true" />
+            <marker date="1482099316000" expanded="true" signature="56834:56971" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout_files/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout_files/page1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout_files/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout_files/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="241" column="1" lean-forward="false" selection-start-line="241" selection-start-column="1" selection-end-line="241" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="80" column="35" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="e#4009#4015#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10474#10479#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#p#0;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#p#1;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#p#2;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#p#3;n#div#0;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#section#2;n#aside#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

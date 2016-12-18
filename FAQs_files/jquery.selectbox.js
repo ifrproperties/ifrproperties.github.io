@@ -61,7 +61,7 @@ jQuery.SelectBox = function(selectobj, options) {
     opt.containerClass = opt.containerClass || "selectbox-wrapper";
     opt.hoverClass = opt.hoverClass || "current";
     opt.currentClass = opt.currentClass || "selected";
-    opt.groupClass = opt.groupClass || "groupname"; //css class for group
+    opt.groupClass = opt.groupClass || "groupname"; //page.css class for group
     opt.maxHeight = opt.maxHeight || 200; // max height of dropdown list
     opt.loopnoStep = opt.loopnoStep || false; // to remove the step in list moves loop
     opt.onChangeCallback = opt.onChangeCallback || false;
@@ -145,7 +145,7 @@ jQuery.SelectBox = function(selectobj, options) {
         if($container.height() > opt.maxHeight){
             /*
              Commented By Saqib
-            $container.width(parseInt(width)+parseInt($input.custom.css('paddingRight'))+parseInt($input.custom.css('paddingLeft')));
+            $container.width(parseInt(width)+parseInt($input.custom.page.css('paddingRight'))+parseInt($input.custom.page.css('paddingLeft')));
              */
             $container.height(opt.maxHeight);
         } else{
@@ -184,7 +184,7 @@ jQuery.SelectBox = function(selectobj, options) {
             $input.attr("tabIndex", $select.attr("tabindex")); // "I" capital is important for ie
             /*
              Commented By Saqib
-            $input.custom.css("width", $select.custom.css("width"));
+            $input.custom.page.css("width", $select.custom.page.css("width"));
              */
         }
         return $input;
