@@ -1328,7 +1328,7 @@ $list_item_margin: 1px;*/
 /* Footer
 /*------------------------------------------------------*/
 #footer-wrapper {
-  background: url("../images/background-outer-wrapper.png") repeat-x scroll bottom center transparent;
+  background: url("./background-outer-wrapper.png") repeat-x scroll bottom center transparent;
   padding-bottom: 245px;
 }
 
