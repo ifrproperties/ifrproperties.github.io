@@ -78,3 +78,191 @@ form.wpcf7-form section#contact-form textarea#comment{ width:65%;}
 
 
 
+/*dynamic-css Start*/
+
+.header-wrapper {
+    background-color: #95C4D7;
+}
+
+#logo h2 a {
+    color: #ffffff;
+}
+
+#logo h2 a:hover, #logo h2 a:focus, #logo h2 a:active {
+    color: #96C5D8;
+}
+
+.tag-line span {
+    color: #8b9293;
+}
+
+.tag-line span {
+    background-color: #343a3b;
+}
+
+.page-head h1.page-title span {
+    color: #00384D;
+}
+
+.page-head h1.page-title span {
+    background-color: #ffffff;
+}
+
+.page-head p {
+    color: #00384D;
+}
+
+.page-head p {
+    background-color: #ffffff;
+}
+
+.header-wrapper, #contact-email a, .user-nav a, .social_networks li a {
+    color: #ffffff;
+}
+
+#contact-email a:hover, .user-nav a:hover {
+    color: #ffffff;
+}
+
+#header-top, .social_networks li a, .user-nav a, .header-wrapper  {
+    border-color: #ffffff;
+}
+
+.main-menu ul li a {
+    color: #ffffff;
+}
+
+.main-menu ul li.current-menu-ancestor > a, .main-menu ul li.current-menu-parent > a, .main-menu ul li.current-menu-item > a, .main-menu ul li.current_page_item > a, .main-menu ul li:hover > a, .main-menu ul li ul, .main-menu ul li ul li ul {
+    background-color: #ffffff;
+}
+
+.main-menu ul li.current-menu-ancestor > a, .main-menu ul li.current-menu-parent > a, .main-menu ul li.current-menu-item > a, .main-menu ul li.current_page_item > a, .main-menu ul li:hover > a, .main-menu ul li ul, .main-menu ul li ul li a, .main-menu ul li ul li ul, .main-menu ul li ul li ul li a {
+    color: #ffffff;
+}
+
+.main-menu ul li ul li:hover > a, .main-menu ul li ul li ul li:hover > a {
+    background-color: #95C4D7;
+}
+
+.slide-description h3, .slide-description h3 a {
+    color: #394041;
+}
+
+.slide-description h3 a:hover, .slide-description h3 a:focus, .slide-description h3 a:active {
+    color: #00394D;
+}
+
+.slide-description p {
+    color: #8b9293;
+}
+
+.slide-description span {
+    color: #00394D;
+}
+
+
+.property-item .property-item .property-meta span {
+    border-color: #dedede;
+}
+
+.property-item h4, .property-item h4 a, .es-carousel-wrapper ul li h4 a {
+    color: #3687bd;
+}
+
+.property-item h4 a:hover, .property-item h4 a:focus, .property-item h4 a:active, .es-carousel-wrapper ul li h4 a:hover, .es-carousel-wrapper ul li h4 a:focus, .es-carousel-wrapper ul li h4 a:active {
+    color: #00394D;
+}
+
+.es-carousel-wrapper ul li, .property-item .price small {
+    color: #ffffff;
+}
+
+.es-carousel-wrapper ul li {
+    background-color: #3687bd;
+}
+
+.property-item figure figcaption {
+    color: #ffffff;
+}
+
+.property-item figure figcaption {
+    background-color: #3687bd;
+}
+
+.property-item p, .es-carousel-wrapper ul li p {
+    color: #8b9293;
+}
+
+.property-item .property-meta span {
+    color: #3687bd;
+}
+
+#footer .widget .title {
+    color: #394041;
+}
+
+#footer .widget, #footer .widget, #footer-bottom p {
+    color: #3687bd;
+}
+
+#footer .widget ul li a, #footer .widget a, #footer-bottom a {
+    color: #3687bd;
+}
+
+#footer .widget ul li a:hover, #footer .widget ul li a:focus, #footer.widget ul li a:active, #footer .widget a:hover, #footer .widget a:focus, #footer .widget a:active, #footer-bottom a:hover, #footer-bottom a:focus, #footer-bottom a:active {
+    color: #3687bd;
+}
+
+#footer-bottom {
+    border-color: #3687bd;
+}
+
+.real-btn:hover, .real-btn.current {
+    background-color: #00394d;
+}
+
+#footer-wrapper {
+    background-image: url(./assets/background-outer-wrapper.png);
+}
+
+
+/*dynamic-css End */
+
+
+/* quick-css Start */
+
+#logo {
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+
+.format-image .format-icon.image, .format-video .format-icon.video, .format-gallery .format-icon.gallery {
+    background-color: #3687bd;
+}
+
+.post-meta {
+    border-bottom: 5px solid #3687bd;
+}
+
+.widget {
+    background-color: #FFFFFF;
+}
+
+.listing-slider .flex-direction-nav a.flex-prev, .listing-slider .flex-direction-nav a.flex-next, .listing-slider .flex-control-paging li a {
+    background-color: #3687bd;
+}
+
+.single article p {
+    color: #565656;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #00384D;
+}
+
+.post-title, .post-title a {
+    color: #00384D;
+}
+
+
+/* quick-css End */
